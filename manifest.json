@@ -1,0 +1,10 @@
+{
+  "name": "BILL MONITORING",
+  "short_name": "Bill Monitor",
+  "description": "Monthly bill records and location tracking",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#14213d",
+  "icons": []
+}
